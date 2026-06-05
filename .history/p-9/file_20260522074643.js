@@ -1,0 +1,2 @@
+//=== SOAL 1 : typeof & konversi ===
+left 

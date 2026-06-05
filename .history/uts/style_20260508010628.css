@@ -1,0 +1,33 @@
+ .container {
+            width: 80%;
+            margin: auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+        }
+
+        /* Menggunakan ID untuk elemen spesifik */
+        #main-header {
+            text-align: center;
+            color: #5d4037;
+            text-transform: uppercase;
+        }
+
+        .section-title {
+            color: #795548;
+            margin-top: 20px;
+        }
+
+        .description {
+            font-size: 1.1em;
+            color: #333;
+            line-height: 1.8;
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            background: #ccc;
+            margin: 20px 0;
+        }
