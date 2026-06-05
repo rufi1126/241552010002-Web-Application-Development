@@ -1,1 +1,0 @@
-if (localStorage.getItem('tema'))

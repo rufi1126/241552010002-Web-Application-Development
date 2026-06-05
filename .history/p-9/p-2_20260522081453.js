@@ -1,4 +1,0 @@
-// === SOAL 1 : Kalkulator Nilai ===
-function hitungGrade(nilai) {
-    if (nilai <)
-}

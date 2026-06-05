@@ -1,5 +1,0 @@
-//=== SOAL 1 : typeof & konversi ===
-let angka = '42';
-let desimal = '3.14';
-let boolStr = 'true';
-
