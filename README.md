@@ -7,7 +7,7 @@ Selamat datang di repositori praktikum dan tugas kuliah **Web Application Develo
 ## 👨‍💻 Profil Mahasiswa
 * **Nama:** [Muhammad Ma'rufil Kurhi]
 * **NIM:** 241552010002
-* **Kelas:** [Misal: TI-Angkatan 1 / pagi / Reguler]
+* **Kelas:** [TI-Angkatan 1 / pagi / Reguler]
 * **Dosen Pengampu:** [Agus Sulaiman, S.Kom., M.T]
 
 ---
